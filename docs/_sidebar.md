@@ -1,3 +1,3 @@
 * [Home](./)
-* [About](./sobre.md)
+* [Sobre](./sobre.md)
 
